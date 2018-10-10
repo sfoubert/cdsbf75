@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-netlify-cms",
-  "description": "Example Gatsby, and Netlify CMS project",
-  "version": "1.1.3",
-  "author": "Austin Green",
+  "name": "cdsbf75",
+  "description": "Comite de Paris de Savate Boxe Française",
+  "version": "1.0.0",
+  "author": "Sébastien Foubert",
   "dependencies": {
     "bulma": "^0.7.0",
     "gatsby": "^2.0.0",
@@ -41,6 +41,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
+    "imagemin-pngquant": "^5.0.1",
     "prettier": "^1.7.4",
     "rimraf": "^2.6.2"
   }
