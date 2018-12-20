@@ -1,4 +1,7 @@
-# Gatsby + Netlify CMS Starter
+# CDSBF75
+[![Build Status](https://travis-ci.org/sfoubert/cdsbf75.svg?branch=master)](https://travis-ci.org/sfoubert/cdsbf75)
+
+# Gatsby + Netlify CMS Starter 
 
 **Note:** This starter uses the [Gatsby v2 Beta](https://www.gatsbyjs.org/blog/2018-06-16-announcing-gatsby-v2-beta-launch/).
 

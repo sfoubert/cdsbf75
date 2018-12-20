@@ -1,11 +1,12 @@
 {
-  "name": "gatsby-starter-netlify-cms",
-  "description": "Example Gatsby, and Netlify CMS project",
-  "version": "1.1.3",
-  "author": "Austin Green",
+  "name": "cdsbf75",
+  "description": "Comite de Paris de Savate Boxe Française",
+  "version": "1.0.0",
+  "author": "Sébastien Foubert",
   "dependencies": {
     "bulma": "^0.7.0",
     "gatsby": "^2.0.0",
+    "gatsby-plugin-google-analytics": "^2.0.8",
     "gatsby-plugin-netlify": "^2.0.0",
     "gatsby-plugin-netlify-cms": "^3.0.0",
     "gatsby-plugin-react-helmet": "^3.0.0",
