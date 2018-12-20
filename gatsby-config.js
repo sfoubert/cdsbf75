@@ -34,5 +34,15 @@ module.exports = {
       },
     },
     'gatsby-plugin-netlify', // make sure to keep it last in the array
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: 'UA-2767287-19',
+        head: true,
+        anonymize: true,
+        respectDNT: true,
+        exclude: [],
+      },
+    },
   ],
 }
