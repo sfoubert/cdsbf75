@@ -12,4 +12,4 @@ Intensité, Technique, Cardio étaient au RDV.
 
 Merci Maurine pour ce stage très complet.
 
-![](/img/stage_feminin_1.jpg)
+![null](/img/stage_feminin_1.jpg)
