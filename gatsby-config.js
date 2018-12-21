@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'CDSBF75, Comité de Paris de Savate Boxe Française',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
