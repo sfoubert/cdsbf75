@@ -22,21 +22,30 @@ export default class IndexPage extends React.Component {
                   style={{ border: '1px solid #eaecee', padding: '2em 4em' }}
                   key={post.id}
                 >
-                  <p>
-                    <Link className="has-text-primary" to={post.fields.slug}>
-                      {post.frontmatter.title}
-                    </Link>
-                    <span> &bull; </span>
-                    <small>{post.frontmatter.date}</small>
-                  </p>
-                  <p>
-                    {post.excerpt}
-                    <br />
-                    <br />
-                    <Link className="button is-small" to={post.fields.slug}>
-                      Voir plus...
-                    </Link>
-                  </p>
+                  <div className="columns">
+                    <div className="column is-2">
+                      <Link to={post.fields.slug}>
+                        <img src={post.frontmatter.thumbnail} alt="post" style={{ width: '125px' }} />
+                      </Link>
+                    </div>
+                    <div>
+                      <p>
+                        <Link className="has-text-primary" to={post.fields.slug}>
+                          {post.frontmatter.title}
+                        </Link>
+                        <span> &bull; </span>
+                        <small>{post.frontmatter.date}</small>
+                      </p>
+                      <p>
+                        {post.excerpt}
+                        <br />
+                        <br />
+                        <Link className="button is-small" to={post.fields.slug}>
+                          Voir plus...
+                        </Link>
+                      </p>
+                      </div>
+                    </div>
                 </div>
               ))}
           </div>
@@ -71,6 +80,7 @@ export const pageQuery = graphql`
             title
             templateKey
             date(formatString: "DD MMMM YYYY", locale: "fr")
+            thumbnail
           }
         }
       }

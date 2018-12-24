@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: Médaille de la Jeunesse et des Sports
 date: 2018-12-12T07:04:00.000Z
+thumbnail: /img/medaille_1.jpg
 description: >-
   Lundi 10 décembre, j'ai eu l'honneur (et le plaisir) de recevoir la médaille
   de la Jeunesse et des Sports et de l'engagement associatif.

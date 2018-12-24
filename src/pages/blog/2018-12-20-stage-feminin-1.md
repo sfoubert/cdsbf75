@@ -3,6 +3,7 @@ templateKey: blog-post
 title: 'Stage féminin #1'
 date: 2018-11-18T20:40:00.000Z
 description: Stage animé par Maurine Atef.
+thumbnail: /img/stage_feminin_1.jpg
 tags:
   - cdsbf75
   - stage
