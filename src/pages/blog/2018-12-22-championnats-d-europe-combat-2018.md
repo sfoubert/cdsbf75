@@ -3,6 +3,7 @@ templateKey: blog-post
 title: Championnats d'Europe combat 2018
 date: 2018-10-02T19:19:00.000Z
 description: 'Samedi soir, Paris a vibré a double titre.'
+thumbnail: /img/2018/thumbnail/finale_elite_a_2018_1.jpg
 tags:
   - cdsbf75
 ---
@@ -12,6 +13,6 @@ Un Grand Bravo !
 
 Quel beau combat ! Quelle belle victoire !
 
-![Championnat europe 2018 jimmy charlot](/img/finale_elite_a_2018_1.jpg)
+![Championnat europe 2018 jimmy charlot](/img/2018/finale_elite_a_2018_1.jpg)
 
-![Championnat europe 2018 jimmy charlot](/img/finale_elite_a_2018_2.jpg)
+![Championnat europe 2018 jimmy charlot](/img/2018/finale_elite_a_2018_2.jpg)
