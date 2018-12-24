@@ -2,13 +2,14 @@
 templateKey: blog-post
 title: Médaille de la Jeunesse et des Sports
 date: 2018-12-12T07:04:00.000Z
+thumbnail: /img/2018/thumbnail/medaille_1.jpg
 description: >-
   Lundi 10 décembre, j'ai eu l'honneur (et le plaisir) de recevoir la médaille
   de la Jeunesse et des Sports et de l'engagement associatif.
 tags:
   - cdsbf75
 ---
-![médaille](/img/medaille_1.jpg)
+![médaille](/img/2018/medaille_1.jpg)
 
 Cette médaille récompense 15 ans de bénevolat au PUC - Paris Université Club, mon Club, et bien sûr, mon engagement au Comite Comité de Paris de Savate Boxe Française depuis 6 ans maintenant. Je remercie les membres du Comité avec qui j'ai plaisir à échanger et travailler, notre CTD, Ludovic, et tous ceux qui soutiennent et participent à nos projets.
 
@@ -18,4 +19,4 @@ Merci à la Presidente du CROSIF d'avoir proposé ma candidature. C'est un honne
 
 Vive la Savate Boxe Française !
 
-![médaille portée](/img/medaille_2.jpg)
+![médaille portée](/img/2018/medaille_2.jpg)
